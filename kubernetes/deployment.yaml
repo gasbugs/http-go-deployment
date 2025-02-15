@@ -19,7 +19,7 @@ spec:
         app: http-go
     spec:
       containers:
-      - image: 445567110488.dkr.ecr.us-east-1.amazonaws.com/product-app:2025-02-15.14.49.30
+      - image: 445567110488.dkr.ecr.us-east-1.amazonaws.com/product-app:2025-02-15.16.59.14
         name: http-go
         resources: {}
         readinessProbe:
